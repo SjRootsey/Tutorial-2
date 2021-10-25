@@ -6,6 +6,13 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - Platform
+  - scoreText
+  - Undefined
+  - winText
+  - livesText
+  - Enemy
+  - loseText
   layers:
   - Default
   - TransparentFX
